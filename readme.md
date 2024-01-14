@@ -1,3 +1,3 @@
 # Goonch
 
-### This is a GLFW-OpenGL Game [Engine]
+### This is a GLFW-OpenGL based Game [Engine]
